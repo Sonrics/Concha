@@ -9,9 +9,6 @@ suma = a+b;
 System.out.println("El resultado es: "+suma);
 
 
-public class todo
-´
-aca va todos los metodos del
-arbool binario de busqueda secuencial
+
 
 }
